@@ -1,0 +1,23 @@
+{
+  "bot-account": {
+    "username": "Server",
+    "password": "",
+    "type": "mojang"
+  },
+  "server": {
+    "ip": "ConcretSmp.aternos.me",
+    "port": 35914,
+    "version": "1.18.2"
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "yassinehzz$is$the$best"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+    "auto-reconnect": true
+  }
+}
